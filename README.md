@@ -10,9 +10,9 @@ Welcome to the most human, most chaotic, and most beautiful Roblox piano bot you
 - 🧠 **Humanization Everywhere** — Chords sometimes become arpeggios, fast passages get a little messy, and everything is just a bit more... alive.
 - 💡 All comments and code style are now in true MelvinSGjr fashion: sarcastic, concise, and (hopefully) helpful.
 
-## Usage
-1. Put your song in `song.txt` (see examples inside).
-2. Run `playSong.py` and let the magic happen.
+## Usage (For any Linux or Windows)
+1. Put your midi files in MIDI folder.
+2. Run a command `py playMIDI.py` or `python playMIDI.py` in CMD and let the magic happen.
 3. Use hotkeys (see console) to control playback, speed, legit mode, and more.
 4. Brag to your friends that your bot is more human than theirs.
 
